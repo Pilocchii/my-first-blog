@@ -1,0 +1,13 @@
+
+
+manage.py commands:
+    startproject
+    startapp
+    makemigrations
+    migrate
+    createsuperuser
+    runserver
+
+tutorial.djangogirls.org
+pilocchii.pythonanywhere.com
+github
